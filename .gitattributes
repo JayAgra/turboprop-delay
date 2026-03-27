@@ -1,0 +1,3 @@
+# mark the sql create thing as code not docs/data
+*.sql linguist-detectable=true
+*.sql linguist-language=sql
