@@ -1,9 +1,9 @@
 [package]
-name = "turboprop-desynchronosis"
+name = "turboprop-delay"
 version = "0.1.0"
 edition = "2024"
 authors = ["Jayen Agrawal"]
-repository = "https://github.com/JayAgra/turboprop-desynchronosis/"
+repository = "https://github.com/JayAgra/turboprop-delay/"
 license = "Copyright (c) 2026 Jayen Agrawal. All rights reserved."
 
 [dependencies]
